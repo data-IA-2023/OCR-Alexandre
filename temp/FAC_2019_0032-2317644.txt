@@ -1,0 +1,11 @@
+INVOICE FAC_2019_0032
+Issue date 2019-01-12 18:23:00
+TO
+Bill to Zacharie Klein
+Brilllling
+Address 84, chemin Alfred Merle
+93206 Aubry-sur-Delahaye
+Resource seek in member.
+8 × 44.53 Euro
+TOTAL
+356.24 Euro

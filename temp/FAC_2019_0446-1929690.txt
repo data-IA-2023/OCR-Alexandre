@@ -1,0 +1,11 @@
+INVOICE FAC_2019_0446
+Issue date 2019-05-13 11:04:00
+TO
+Bill to Pellegrino Sanguineti-Combi
+Brilllling
+Address 3, chemin Gauthier
+76789 RobertBourg
+Remplir est vrai préférer.
+4 × 62.66 Euro
+TOTAL
+250.64 Euro

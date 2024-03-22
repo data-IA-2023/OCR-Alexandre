@@ -1,0 +1,15 @@
+INVOICE FAC_2019_0246
+' .
+Issue date 2019-03-17 04:19:00
+Bill to Annalisa Abbagnale
+Brilllling
+Address 63, avenue Ollivier
+16312 Saint Emmanuelle
+Dolorem natus excepturi ipsum.
+1 x
+Par vague jaune corde.
+3.36 Euro
+4 x
+60.36 Euro
+TOTAL
+244.80 Euro

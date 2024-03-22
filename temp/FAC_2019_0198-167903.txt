@@ -1,0 +1,10 @@
+INVOICE FAC_2019_0198
+Issue date 2019-03-04 01:46:00
+Bill to Raymond Mathieu
+Brilllling
+Address 58, rue de Valentin
+33210 Bouchet
+Glass you test fill.
+3 × 60.97 Euro
+TOTAL
+182.91 Euro

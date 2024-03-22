@@ -1,0 +1,11 @@
+INVOICE FAC_2019_0601
+Issue date 2019-07-05 12:20:00
+Bill to Rossana Zanazzo
+Billlling
+Address 6, rue Laetitia Hamon
+09457 Saint Clémencedan
+Distance sentier reculer jeune.
+1 x
+44.22 Euro
+TOTAL
+44.22 Euro

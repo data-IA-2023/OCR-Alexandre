@@ -1,0 +1,20 @@
+INVOICE FAC_2019_0712
+Issue date 2019-08-26 08:02:00
+Bill to Renzo Munari
+Brilllling
+Address Canale Gianni, 9 Piano 6
+85042, Lagonegro (PZ)
+Eum delectus dicta laboriosam.
+4 x
+41.41 Euro
+Illo cumque aspernatur esse.
+1 x
+83.88 Euro
+Nostrum fugiat optio nemo.
+5 x
+83.21 Euro
+Voluptates voluptatum quos culpa.
+5 x
+17.16 Euro
+TOTAL
+751.37 Euro

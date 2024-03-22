@@ -1,0 +1,17 @@
+INVOICE FAC_2019_0444
+Issue date 2019-05-12 07:20:00
+Bill to Auguste Delattre
+Brilllling
+Address 52, rue Becker
+61953 De Oliveira
+Atque minima voluptate veritatis.
+4 x
+79.01 Euro
+Harum natus nemo rerum.
+3 x
+64.39 Euro
+Dicta modi numquam occaecati.
+7 x
+99.95 Euro
+TOTAL
+1208.86 Euro

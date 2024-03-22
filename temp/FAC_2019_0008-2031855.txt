@@ -1,0 +1,21 @@
+INVOICE FAC_2019_0008
+Issue date 2019-01-04 23:49:00
+TO
+Bill to Maria Pacetti
+Brilllling
+Address 907, boulevard Sébastien Mathieu
+15808 Sainte FrançoisVille
+Ratione consectetur maxime illum.
+5 x
+43.16 Euro
+Placeat animi animi ipsum.
+1 x
+89.16 Euro
+Personne secret honneur rond.
+x
+23.37 Euro
+Mille rêve parce que immense.
+8 x
+62.53 Euro
+TOTAL
+1015.53 Euro

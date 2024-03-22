@@ -1,0 +1,11 @@
+INVOICE FAC_2019_0620
+Issue date 2019-07-14 05:15:00
+Bill to Jules Martineau
+Brilllling
+Address 7722 Smith Terrace
+Robertville, WA 51572
+In harum et earum.
+4 x
+41.14 Euro
+TOTAL
+164.56 Euro

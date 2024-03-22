@@ -1,0 +1,10 @@
+INVOICE FAC_2019_0078
+Issue date 2019-01-26 15:07:00
+Bill to Marcel Grondin
+Brilllling
+Address 84, avenue de Lebreton
+61940 Leblanc
+Ten family partner even.
+7 x 99.77 Euro
+TOTAL
+698.39 Euro

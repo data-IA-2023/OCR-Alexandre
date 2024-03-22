@@ -1,0 +1,13 @@
+pandas
+fastapi
+fastapi-sqlalchemy
+Jinja2
+pytest
+python-dotenv
+python-multipart
+uvicorn
+scikit-learn
+psycopg2
+requests
+beautifulsoup4
+azure-ai-vision-imageanalysis

@@ -1,0 +1,18 @@
+INVOICE FAC_2019_0108
+Issue date 2019-02-05 05:18:00
+TO
+Bill to Martino Campano
+Brilllling
+Address Stretto Verdi, 37 Appartamento 10
+60125, Ancona (AN)
+There item black one.
+4 x
+6.78 Euro
+Activity behavior watch degree.
+8 x
+99.72 Euro
+Ex ad iure vitae.
+2 x
+91.20 Euro
+TOTAL
+1007.28 Euro

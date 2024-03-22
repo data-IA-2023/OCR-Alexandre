@@ -1,0 +1,24 @@
+INVOICE FAC_2019_0690
+Issue date 2019-08-16 07:42:00
+TO
+Bill to Angela Smith
+Brilllling
+Address 59, rue de Leroy
+76365 Sainte Juliette-les-Bains
+Stage particular mention relationship.
+8
+28.14 Euro
+Parent above current choose.
+9
+76.81 Euro
+Compte pitié ancien fine.
+x
+87.49 Euro
+Quaerat aut occaecati dolor.
+x
+70.19 Euro
+Odit voluptatem ex reiciendis.
+6 x
+97.09 Euro
+TOTAL
+2235.45 Euro

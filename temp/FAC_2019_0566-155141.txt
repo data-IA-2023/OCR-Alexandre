@@ -1,0 +1,12 @@
+INVOICE FAC_2019_0566
+Issue date 2019-06-23 22:04:00
+TO
+Bill to Beatrice Rocca
+Billlling
+Address 11, chemin de Diallo
+11302 Paris-sur-Joly
+Distinguer noire haut saisir.
+1 x
+2.31 Euro
+TOTAL
+2.31 Euro

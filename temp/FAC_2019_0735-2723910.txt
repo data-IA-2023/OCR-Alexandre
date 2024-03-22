@@ -1,0 +1,11 @@
+INVOICE FAC_2019_0735
+Issue date 2019-09-07 19:44:00
+Bill to Paul Mathieu
+Brilllling
+Address Canale Monica, 689 Appartamento 49
+35132, Padova (PD)
+Exemple voiture vin avant.
+6 x
+4.20 Euro
+TOTAL
+25.20 Euro

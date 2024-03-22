@@ -1,0 +1,11 @@
+INVOICE FAC_2019_0021
+Issue date 2019-01-08 07:09:00
+Bill to Tullio Monduzzi
+Brilllling
+Address 257, rue Émilie Masson
+72396 Guilbert
+Aperiam distinctio quis perspiciatis.
+4 x
+5.00 Euro
+TOTAL
+20.00 Euro
